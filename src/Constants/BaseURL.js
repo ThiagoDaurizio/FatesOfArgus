@@ -1,0 +1,1 @@
+export const URLBase_Labefy = "https://us-central1-labenu-apis.cloudfunctions.net/labefy"
